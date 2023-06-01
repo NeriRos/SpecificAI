@@ -1,0 +1,2031 @@
+[
+    {
+        "hebrew": [
+            "מאזן"
+        ],
+        "english": [
+            "balance sheet"
+        ]
+    },
+    {
+        "hebrew": [
+            "מאזן משווה"
+        ],
+        "english": [
+            "comparative balance sheet"
+        ]
+    },
+    {
+        "hebrew": [
+            "מאזן לפי הקרנות"
+        ],
+        "english": [
+            "fund balance sheet"
+        ]
+    },
+    {
+        "hebrew": [
+            "הצעת מאזן"
+        ],
+        "english": [
+            "proforma balance sheet"
+        ]
+    },
+    {
+        "hebrew": [
+            "דו\"ח משווה"
+        ],
+        "english": [
+            "comparative statement"
+        ]
+    },
+    {
+        "hebrew": [
+            "דו\"ח כספי מבוקר"
+        ],
+        "english": [
+            "certified financial statement"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכסים",
+            "רכוש"
+        ],
+        "english": [
+            "assets"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכס"
+        ],
+        "english": [
+            "asset"
+        ]
+    },
+    {
+        "hebrew": [
+            "רכוש"
+        ],
+        "english": [
+            "property"
+        ]
+    },
+    {
+        "hebrew": [
+            "התחייבות"
+        ],
+        "english": [
+            "liability"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאה מהוונת"
+        ],
+        "english": [
+            "capitalized expense"
+        ]
+    },
+    {
+        "hebrew": [
+            "גילוי"
+        ],
+        "english": [
+            "disclosure"
+        ]
+    },
+    {
+        "hebrew": [
+            "הערכה"
+        ],
+        "english": [
+            "valuation",
+            "appraisal"
+        ]
+    },
+    {
+        "hebrew": [
+            "לפי הערכה חדשה"
+        ],
+        "english": [
+            "\"as per revaluation\""
+        ]
+    },
+    {
+        "hebrew": [
+            "העריך"
+        ],
+        "english": [
+            "to appraise"
+        ]
+    },
+    {
+        "hebrew": [
+            "מעריך"
+        ],
+        "english": [
+            "appraiser"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי מוערך"
+        ],
+        "english": [
+            "appraised value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי פנקסי נטו",
+            "שווי פנקסי נקי",
+            "ערך פנקסי נטו",
+            "ערך פנקסי נקי"
+        ],
+        "english": [
+            "net book value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי החילוף",
+            "עלות החילוף"
+        ],
+        "english": [
+            "replacement value",
+            "replacement cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "עסק חי"
+        ],
+        "english": [
+            "going concern"
+        ]
+    },
+    {
+        "hebrew": [
+            "השווי בעסק החי",
+            "הערך בעסק החי",
+            "שווי העסק החי",
+            "ערך העסק החי"
+        ],
+        "english": [
+            "going value",
+            "concern value",
+            "enterprise value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי בחיסול",
+            "ערך בחיסול"
+        ],
+        "english": [
+            "break-up value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי השייר",
+            "ערך השייר"
+        ],
+        "english": [
+            "break-up value",
+            "salvage",
+            "salvage value",
+            "scrap value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי פנקסי",
+            "ערך פנקסי"
+        ],
+        "english": [
+            "book value"
+        ]
+    },
+    {
+        "hebrew": [
+            "השווי בשוק",
+            "הערך בשוק",
+            "שווי השוק"
+        ],
+        "english": [
+            "market value"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי שוק הוגן",
+            "ערך שוק הוגן"
+        ],
+        "english": [
+            "fair market value"
+        ]
+    },
+    {
+        "hebrew": [
+            "חשבון מקביל"
+        ],
+        "english": [
+            "contra account"
+        ]
+    },
+    {
+        "hebrew": [
+            "חשבון הערכה"
+        ],
+        "english": [
+            "valuation account"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפדה"
+        ],
+        "english": [
+            "to surrender"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפדיה"
+        ],
+        "english": [
+            "surrender"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי ההפדיה",
+            "ערך ההפדיה"
+        ],
+        "english": [
+            "surrender value",
+            "cash surrender value"
+        ]
+    },
+    {
+        "hebrew": [
+            "רכוש שוטף",
+            "נכסים שוטפים"
+        ],
+        "english": [
+            "current assets",
+            "circulating assets"
+        ]
+    },
+    {
+        "hebrew": [
+            "מזומנים"
+        ],
+        "english": [
+            "cash"
+        ]
+    },
+    {
+        "hebrew": [
+            "מזומנים חופשים"
+        ],
+        "english": [
+            "available cash"
+        ]
+    },
+    {
+        "hebrew": [
+            "מזומנים בקופה"
+        ],
+        "english": [
+            "cash on hand",
+            "cash in hand"
+        ]
+    },
+    {
+        "hebrew": [
+            "חשבון עובר ושב בבנקים",
+            "חשבון עובר ושב בבנק",
+            "חשבון עו\"ש בבנקים",
+            "חשבון עו\"ש בבנק",
+            "מזומנים בבנקים",
+            "מזומנים בבנק"
+        ],
+        "english": [
+            "cash in bank",
+            "cash with bank",
+            "cash at bank"
+        ]
+    },
+    {
+        "hebrew": [
+            "קופה קטנה"
+        ],
+        "english": [
+            "petty cash"
+        ]
+    },
+    {
+        "hebrew": [
+            "דמי מחזור",
+            "קופת דמי מחזור"
+        ],
+        "english": [
+            "imprest cash",
+            "imprest fund"
+        ]
+    },
+    {
+        "hebrew": [
+            "יתר בקופה"
+        ],
+        "english": [
+            "cash over"
+        ]
+    },
+    {
+        "hebrew": [
+            "חסר בקופה"
+        ],
+        "english": [
+            "cash short",
+            "cash shortage"
+        ]
+    },
+    {
+        "hebrew": [
+            "פיקדון למועד"
+        ],
+        "english": [
+            "time deposit",
+            "term deposit"
+        ]
+    },
+    {
+        "hebrew": [
+            "חייבים",
+            "חשבונות חייבים"
+        ],
+        "english": [
+            "receivables",
+            "accounts receivable"
+        ]
+    },
+    {
+        "hebrew": [
+            "לקוחות",
+            "חשבונות לקוחות"
+        ],
+        "english": [
+            "trade accounts receivable",
+            "customers"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר לקבל",
+            "שטר לקבלה"
+        ],
+        "english": [
+            "bill receivable",
+            "note receivable"
+        ]
+    },
+    {
+        "hebrew": [
+            "מכתב אשראי"
+        ],
+        "english": [
+            "letter of credit"
+        ]
+    },
+    {
+        "hebrew": [
+            "אשראי תעודות"
+        ],
+        "english": [
+            "letter of credit"
+        ]
+    },
+    {
+        "hebrew": [
+            "קיבול"
+        ],
+        "english": [
+            "acceptance"
+        ]
+    },
+    {
+        "hebrew": [
+            "כתב קיבול בנקאי"
+        ],
+        "english": [
+            "bank acceptance",
+            "acceptance",
+            "letter of acceptance"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר לקיבול"
+        ],
+        "english": [
+            "bill for acceptance"
+        ]
+    },
+    {
+        "hebrew": [
+            "ניכיון",
+            "ניכיון שטרות"
+        ],
+        "english": [
+            "discount",
+            "discount of bills"
+        ]
+    },
+    {
+        "hebrew": [
+            "מלאי"
+        ],
+        "english": [
+            "stock",
+            "stock in trade",
+            "inventory",
+            "stock on hand"
+        ]
+    },
+    {
+        "hebrew": [
+            "רשימת מלאי"
+        ],
+        "english": [
+            "stock list",
+            "inventory list"
+        ]
+    },
+    {
+        "hebrew": [
+            "פקד מלאי"
+        ],
+        "english": [
+            "to inventory",
+            "to take stock"
+        ]
+    },
+    {
+        "hebrew": [
+            "מצאי"
+        ],
+        "english": [
+            "inventory",
+            "property"
+        ]
+    },
+    {
+        "hebrew": [
+            "רשימת מצאי"
+        ],
+        "english": [
+            "inventory list",
+            "property list"
+        ]
+    },
+    {
+        "hebrew": [
+            "פקד מצאי"
+        ],
+        "english": [
+            "to inventory"
+        ]
+    },
+    {
+        "hebrew": [
+            "הערכת מלאי"
+        ],
+        "english": [
+            "stock valuation",
+            "inventory valuation"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווח במלאי"
+        ],
+        "english": [
+            "stock profit",
+            "inventory profit"
+        ]
+    },
+    {
+        "hebrew": [
+            "מפקד מלאי מתמיד"
+        ],
+        "english": [
+            "perpetual stock taking",
+            "perpetual inventory taking",
+            "continuous inventory taking"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת רישום מלאי מתמיד"
+        ],
+        "english": [
+            "perpetual inventory system"
+        ]
+    },
+    {
+        "hebrew": [
+            "מפקד מלאי תקופתי"
+        ],
+        "english": [
+            "periodic inventory",
+            "periodic taking"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת רישום מלאי תקופתי"
+        ],
+        "english": [
+            "periodic inventory system"
+        ]
+    },
+    {
+        "hebrew": [
+            "מלאי פנקסי"
+        ],
+        "english": [
+            "book inventory"
+        ]
+    },
+    {
+        "hebrew": [
+            "קנייה באכסרה",
+            "קנייה במחיר כולל"
+        ],
+        "english": [
+            "basket purchase",
+            "lump sum purchase"
+        ]
+    },
+    {
+        "hebrew": [
+            "לפי העלות או השוק כנמוך שבהם"
+        ],
+        "english": [
+            "cost or market whichever is lower"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכנס ראשון יוצא ראשון",
+            "נרי\"ר"
+        ],
+        "english": [
+            "first in first out",
+            "fifo"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכנס אחרון יוצא ראשון",
+            "נאי\"ר"
+        ],
+        "english": [
+            "last in first out",
+            "lifo"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת המלאי הבסיסי"
+        ],
+        "english": [
+            "base-stock method"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות לפי ממוצע נע"
+        ],
+        "english": [
+            "moving average cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות לפי היחידה המפורשת"
+        ],
+        "english": [
+            "specific cost",
+            "specific identification cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפרשה",
+            "עתודה"
+        ],
+        "english": [
+            "provision",
+            "allowance"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפרשה לפחת"
+        ],
+        "english": [
+            "depreciation provision",
+            "depreciation allowance",
+            "depreciation reserve",
+            "reserve for depreciation",
+            "allowance for depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפרשה לחובות מסופקים"
+        ],
+        "english": [
+            "provision for doubtful debts",
+            "reserve for doubtful debts",
+            "allowance for doubtful debts"
+        ]
+    },
+    {
+        "hebrew": [
+            "חובות מסופקים"
+        ],
+        "english": [
+            "doubtful debts"
+        ]
+    },
+    {
+        "hebrew": [
+            "עתודה לפיצויים",
+            "עתודה לפיצויי פיטורין"
+        ],
+        "english": [
+            "reserve for severance pay",
+            "reserve for compensation"
+        ]
+    },
+    {
+        "hebrew": [
+            "שילם מראש"
+        ],
+        "english": [
+            "to prepay"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאה מראש"
+        ],
+        "english": [
+            "pre-paid expense"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאות ייסוד"
+        ],
+        "english": [
+            "preliminary expenses",
+            "organization expenses"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאות ארגון"
+        ],
+        "english": [
+            "organization expenses"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאות פיתוח"
+        ],
+        "english": [
+            "development expenses",
+            "development expenditure"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאה נדחית"
+        ],
+        "english": [
+            "deferred charge",
+            "deferred debit"
+        ]
+    },
+    {
+        "hebrew": [
+            "יעודה"
+        ],
+        "english": [
+            "fund"
+        ]
+    },
+    {
+        "hebrew": [
+            "יעודה לפדיון"
+        ],
+        "english": [
+            "sinking fund"
+        ]
+    },
+    {
+        "hebrew": [
+            "יעודה לחילוף"
+        ],
+        "english": [
+            "replacement fund",
+            "sinking fund"
+        ]
+    },
+    {
+        "hebrew": [
+            "כספים מסויגים"
+        ],
+        "english": [
+            "restricted fund",
+            "restricted cash"
+        ]
+    },
+    {
+        "hebrew": [
+            "כספי מחזור"
+        ],
+        "english": [
+            "revolving fund"
+        ]
+    },
+    {
+        "hebrew": [
+            "רכוש אחר",
+            "נכסים אחרים"
+        ],
+        "english": [
+            "other assets"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכס מוחשי"
+        ],
+        "english": [
+            "tangible asset"
+        ]
+    },
+    {
+        "hebrew": [
+            "רכוש לא מוחשי",
+            "נכס לא מוחשי"
+        ],
+        "english": [
+            "intangible asset"
+        ]
+    },
+    {
+        "hebrew": [
+            "שם מסחרי"
+        ],
+        "english": [
+            "trade name"
+        ]
+    },
+    {
+        "hebrew": [
+            "סמל מסחרי"
+        ],
+        "english": [
+            "trade mark"
+        ]
+    },
+    {
+        "hebrew": [
+            "מוניטין"
+        ],
+        "english": [
+            "goodwill"
+        ]
+    },
+    {
+        "hebrew": [
+            "פטנט"
+        ],
+        "english": [
+            "patent"
+        ]
+    },
+    {
+        "hebrew": [
+            "רכוש קבוע",
+            "נכסים קבועים"
+        ],
+        "english": [
+            "capital assets",
+            "fixed assets",
+            "long-term assets"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלה",
+            "עלה ערכו"
+        ],
+        "english": [
+            "to appreciate"
+        ]
+    },
+    {
+        "hebrew": [
+            "עליית ערך"
+        ],
+        "english": [
+            "appreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "השביח",
+            "שיפר"
+        ],
+        "english": [
+            "to improve"
+        ]
+    },
+    {
+        "hebrew": [
+            "השבחה",
+            "שיפור"
+        ],
+        "english": [
+            "improvement",
+            "betterment"
+        ]
+    },
+    {
+        "hebrew": [
+            "גדילה"
+        ],
+        "english": [
+            "accretion"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוספה"
+        ],
+        "english": [
+            "addition"
+        ]
+    },
+    {
+        "hebrew": [
+            "תוספת"
+        ],
+        "english": [
+            "increment"
+        ]
+    },
+    {
+        "hebrew": [
+            "שבח"
+        ],
+        "english": [
+            "increment",
+            "value increment"
+        ]
+    },
+    {
+        "hebrew": [
+            "חילוף"
+        ],
+        "english": [
+            "replacement"
+        ]
+    },
+    {
+        "hebrew": [
+            "תיקון"
+        ],
+        "english": [
+            "repair"
+        ]
+    },
+    {
+        "hebrew": [
+            "חידוש"
+        ],
+        "english": [
+            "renewal"
+        ]
+    },
+    {
+        "hebrew": [
+            "תאריך הרכישה"
+        ],
+        "english": [
+            "date of acquisition"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרקע"
+        ],
+        "english": [
+            "land"
+        ]
+    },
+    {
+        "hebrew": [
+            "מקרקעין"
+        ],
+        "english": [
+            "real estate"
+        ]
+    },
+    {
+        "hebrew": [
+            "כלים"
+        ],
+        "english": [
+            "tools"
+        ]
+    },
+    {
+        "hebrew": [
+            "ציוד"
+        ],
+        "english": [
+            "equipment"
+        ]
+    },
+    {
+        "hebrew": [
+            "מוצבה"
+        ],
+        "english": [
+            "plant"
+        ]
+    },
+    {
+        "hebrew": [
+            "ציוד משרדי"
+        ],
+        "english": [
+            "office equipment"
+        ]
+    },
+    {
+        "hebrew": [
+            "אמצעים",
+            "אמצעי הפעלה"
+        ],
+        "english": [
+            "facilities"
+        ]
+    },
+    {
+        "hebrew": [
+            "רהיטים ושאר מיטלטלין"
+        ],
+        "english": [
+            "furniture and fixtures"
+        ]
+    },
+    {
+        "hebrew": [
+            "נכס כלה"
+        ],
+        "english": [
+            "wasting asset"
+        ]
+    },
+    {
+        "hebrew": [
+            "סילוק נכסים"
+        ],
+        "english": [
+            "retirement of assets"
+        ]
+    },
+    {
+        "hebrew": [
+            "פחת"
+        ],
+        "english": [
+            "depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "פחת מואץ"
+        ],
+        "english": [
+            "accelerated depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "ניכה פחת",
+            "רשם פחת"
+        ],
+        "english": [
+            "to depreciate"
+        ]
+    },
+    {
+        "hebrew": [
+            "פחת"
+        ],
+        "english": [
+            "to depreciate"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפחתה"
+        ],
+        "english": [
+            "amortization"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפחית"
+        ],
+        "english": [
+            "to write down",
+            "to amortize"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת הפחת"
+        ],
+        "english": [
+            "depreciation method"
+        ]
+    },
+    {
+        "hebrew": [
+            "בסיס הפחת"
+        ],
+        "english": [
+            "depreciation base"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיעור הפחת"
+        ],
+        "english": [
+            "depreciation rate"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות מופחתת"
+        ],
+        "english": [
+            "depreciated cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "דלדל"
+        ],
+        "english": [
+            "to deplete"
+        ]
+    },
+    {
+        "hebrew": [
+            "דלדול"
+        ],
+        "english": [
+            "depletion"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות מקורית"
+        ],
+        "english": [
+            "original cost",
+            "historical cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות מקורית מותאמת"
+        ],
+        "english": [
+            "adjusted historical cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות מופחתת"
+        ],
+        "english": [
+            "amortized cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "עלות שלא הופחתה"
+        ],
+        "english": [
+            "unamortized cost"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת הפחת השווה"
+        ],
+        "english": [
+            "straight-line method"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת פחת מקובץ"
+        ],
+        "english": [
+            "group depreciation",
+            "composite-life method",
+            "composite-life method of depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת פחת לפי התפוקה"
+        ],
+        "english": [
+            "unit-of-product method",
+            "unit-of-product method of depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת פחת לפי שעות ההפעלה"
+        ],
+        "english": [
+            "working-hours method",
+            "working-hours method of depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "שיטת פחת לפי היתרה"
+        ],
+        "english": [
+            "declining balance method",
+            "diminishing balance method",
+            "reducing balance method",
+            "reducing balance method of depreciation"
+        ]
+    },
+    {
+        "hebrew": [
+            "התחייבות שוטפת"
+        ],
+        "english": [
+            "current liability"
+        ]
+    },
+    {
+        "hebrew": [
+            "משכורת לתשלום"
+        ],
+        "english": [
+            "salary payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "שכר לתשלום"
+        ],
+        "english": [
+            "wages payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "שוברות לתשלום"
+        ],
+        "english": [
+            "vouchers payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "זכאים",
+            "חשבונות זכאים"
+        ],
+        "english": [
+            "payables",
+            "accounts payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "ספקים",
+            "חשבונות ספקים"
+        ],
+        "english": [
+            "trade accounts payable",
+            "suppliers"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר לקבל שנוכה",
+            "שטר לקבלה שנוכה"
+        ],
+        "english": [
+            "note receivable discounted"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר לפירעון",
+            "שטר לגבייה"
+        ],
+        "english": [
+            "bill payable",
+            "note payable",
+            "bill for collection"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר חליפין מסחרי"
+        ],
+        "english": [
+            "trade acceptance",
+            "commercial bill of exchange"
+        ]
+    },
+    {
+        "hebrew": [
+            "ממשך למועד"
+        ],
+        "english": [
+            "time draft"
+        ]
+    },
+    {
+        "hebrew": [
+            "ממשך להצגה",
+            "ממשך לראייה"
+        ],
+        "english": [
+            "sight draft"
+        ]
+    },
+    {
+        "hebrew": [
+            "ממשך לדרישה",
+            "שטר לדרישה"
+        ],
+        "english": [
+            "demand draft",
+            "bill draft"
+        ]
+    },
+    {
+        "hebrew": [
+            "משיכת יתר"
+        ],
+        "english": [
+            "overdraft"
+        ]
+    },
+    {
+        "hebrew": [
+            "התחייבות תלויה"
+        ],
+        "english": [
+            "contingent liability"
+        ]
+    },
+    {
+        "hebrew": [
+            "התחייבות חלה"
+        ],
+        "english": [
+            "matured liability"
+        ]
+    },
+    {
+        "hebrew": [
+            "הכנסה מראש"
+        ],
+        "english": [
+            "deferred credit",
+            "deferred revenue",
+            "deferred income",
+            "income in advance"
+        ]
+    },
+    {
+        "hebrew": [
+            "הכנסה נצמחת",
+            "הכנסה שנצמחה",
+            "הכנסה נצברת",
+            "הכנסה שנצברה"
+        ],
+        "english": [
+            "accrued income",
+            "accrued revenue"
+        ]
+    },
+    {
+        "hebrew": [
+            "הוצאה נצברת",
+            "הוצאה שנצברה"
+        ],
+        "english": [
+            "accrued expense"
+        ]
+    },
+    {
+        "hebrew": [
+            "נצמח",
+            "נצבר"
+        ],
+        "english": [
+            "to accrue"
+        ]
+    },
+    {
+        "hebrew": [
+            "צמיחות",
+            "צבירות"
+        ],
+        "english": [
+            "accrual"
+        ]
+    },
+    {
+        "hebrew": [
+            "ריבית נצברת לקבלה",
+            "ריבית שנצברה לקבלה"
+        ],
+        "english": [
+            "accrued interest receivable"
+        ]
+    },
+    {
+        "hebrew": [
+            "ריבית נצברת לתשלום",
+            "ריבית שנצברה לתשלום"
+        ],
+        "english": [
+            "accrued interest payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "שכר נצבר",
+            "שכר שנצבר"
+        ],
+        "english": [
+            "accrued wages"
+        ]
+    },
+    {
+        "hebrew": [
+            "משכורת נצברת",
+            "משכורת שנצברה"
+        ],
+        "english": [
+            "accrued salary"
+        ]
+    },
+    {
+        "hebrew": [
+            "התחייבויות לזמן ארוך"
+        ],
+        "english": [
+            "fixed liabilities",
+            "long term liabilities"
+        ]
+    },
+    {
+        "hebrew": [
+            "איגרת חוב"
+        ],
+        "english": [
+            "bond",
+            "debenture"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר התחייבות במשכנתה"
+        ],
+        "english": [
+            "mortgage bond"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר משכנתה"
+        ],
+        "english": [
+            "mortgage deed"
+        ]
+    },
+    {
+        "hebrew": [
+            "ייצב חוב",
+            "ייצב חוב באיגרות חוב"
+        ],
+        "english": [
+            "to fund",
+            "to fund a debt"
+        ]
+    },
+    {
+        "hebrew": [
+            "חוב מיוצב",
+            "חוב מיוצב באיגרות חוב"
+        ],
+        "english": [
+            "funded debt"
+        ]
+    },
+    {
+        "hebrew": [
+            "שווי נטו",
+            "שווי נקי",
+            "ערך נטו",
+            "ערך נקי"
+        ],
+        "english": [
+            "net assets",
+            "net worth"
+        ]
+    },
+    {
+        "hebrew": [
+            "בעלות"
+        ],
+        "english": [
+            "ownership",
+            "proprietorship"
+        ]
+    },
+    {
+        "hebrew": [
+            "בעל"
+        ],
+        "english": [
+            "proprietor",
+            "owner"
+        ]
+    },
+    {
+        "hebrew": [
+            "השקעה"
+        ],
+        "english": [
+            "investment"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון"
+        ],
+        "english": [
+            "capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "היוון"
+        ],
+        "english": [
+            "to capitalize"
+        ]
+    },
+    {
+        "hebrew": [
+            "היוון"
+        ],
+        "english": [
+            "capitalization"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מושקע"
+        ],
+        "english": [
+            "invested capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "חשבון הון"
+        ],
+        "english": [
+            "capital account"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מוצהר"
+        ],
+        "english": [
+            "stated capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון נקוב"
+        ],
+        "english": [
+            "nominal capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון קבוע"
+        ],
+        "english": [
+            "fixed capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "זכות"
+        ],
+        "english": [
+            "equity"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון עצמי"
+        ],
+        "english": [
+            "equity capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון נפרע"
+        ],
+        "english": [
+            "contributed capital",
+            "paid-in capital",
+            "paid-up capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניה"
+        ],
+        "english": [
+            "share"
+        ]
+    },
+    {
+        "hebrew": [
+            "תעודת מניה"
+        ],
+        "english": [
+            "share certificate"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניה למוכ\"ז"
+        ],
+        "english": [
+            "bearer share"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר מניה למוכ\"ז"
+        ],
+        "english": [
+            "share warrant to bearer"
+        ]
+    },
+    {
+        "hebrew": [
+            "בעל מניות"
+        ],
+        "english": [
+            "shareholder"
+        ]
+    },
+    {
+        "hebrew": [
+            "סוגי מניות"
+        ],
+        "english": [
+            "classes of shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות רגילות"
+        ],
+        "english": [
+            "ordinary shares",
+            "common stock"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות בכורה"
+        ],
+        "english": [
+            "preference shares",
+            "preferred stock"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות בכורה משתתפות"
+        ],
+        "english": [
+            "participating preference shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות נדחות"
+        ],
+        "english": [
+            "deferred shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות הטבה"
+        ],
+        "english": [
+            "bonus shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות פדיון"
+        ],
+        "english": [
+            "redeemable shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "פדיון מניות",
+            "פדיית מניות"
+        ],
+        "english": [
+            "redemption of shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות סתומות שווי"
+        ],
+        "english": [
+            "non-par value shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "החזרת מניות"
+        ],
+        "english": [
+            "surrender of shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "חשבון פרסי מניות"
+        ],
+        "english": [
+            "share premium account"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן של פרסי מניות"
+        ],
+        "english": [
+            "share premium reserve"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מניות"
+        ],
+        "english": [
+            "share capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מניות בכורה"
+        ],
+        "english": [
+            "preferred share capital",
+            "preferred capital stock"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון רשום",
+            "הון מניות רשום"
+        ],
+        "english": [
+            "authorized capital",
+            "authorized share capital",
+            "registered capital",
+            "registered share capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מניות מונפק"
+        ],
+        "english": [
+            "issued share capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "מניות שלא הונפקו"
+        ],
+        "english": [
+            "unissued shares"
+        ]
+    },
+    {
+        "hebrew": [
+            "חתימה"
+        ],
+        "english": [
+            "subscription"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מניות חתום"
+        ],
+        "english": [
+            "subscribed share capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטרם נפרע",
+            "בידי אחרים"
+        ],
+        "english": [
+            "outstanding"
+        ]
+    },
+    {
+        "hebrew": [
+            "הון מניות שנפרע במלואו"
+        ],
+        "english": [
+            "full paid share capital"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד"
+        ],
+        "english": [
+            "dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד",
+            "דיווידנד במזומנים"
+        ],
+        "english": [
+            "cash dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד בעין"
+        ],
+        "english": [
+            "dividend in kind",
+            "property dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "שטר דיווידנד"
+        ],
+        "english": [
+            "scrip dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד במניות"
+        ],
+        "english": [
+            "stock dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד לתשלום"
+        ],
+        "english": [
+            "dividend payable"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד בכורה"
+        ],
+        "english": [
+            "preference dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "דיווידנד צביר"
+        ],
+        "english": [
+            "cumulative dividend"
+        ]
+    },
+    {
+        "hebrew": [
+            "תלושי דיווידנד"
+        ],
+        "english": [
+            "dividend coupons"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווחים שיועדו"
+        ],
+        "english": [
+            "appropriated surplus"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווחים שלא יועדו"
+        ],
+        "english": [
+            "unappropriated surplus",
+            "available surplus",
+            "free surplus"
+        ]
+    },
+    {
+        "hebrew": [
+            "יתרת הרווח נטו",
+            "יתרת הרווח הנקי"
+        ],
+        "english": [
+            "retained earnings",
+            "earned surplus",
+            "balance of net profit"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווח הון"
+        ],
+        "english": [
+            "capital profit",
+            "capital gain"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווחים שלא חולקו"
+        ],
+        "english": [
+            "undivided profit",
+            "undistributed profit"
+        ]
+    },
+    {
+        "hebrew": [
+            "רווח הפעלה נטו",
+            "רווח הפעלה נקי"
+        ],
+        "english": [
+            "net operating profit"
+        ]
+    },
+    {
+        "hebrew": [
+            "הפסד הון"
+        ],
+        "english": [
+            "capital loss"
+        ]
+    },
+    {
+        "hebrew": [
+            "גירעון",
+            "הפסד"
+        ],
+        "english": [
+            "deficit",
+            "deficiency"
+        ]
+    },
+    {
+        "hebrew": [
+            "הערכה חדשה"
+        ],
+        "english": [
+            "revaluation"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן מהערכה חדשה"
+        ],
+        "english": [
+            "revaluation reserve"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן"
+        ],
+        "english": [
+            "reserve",
+            "surplus reserve"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן מהוונת"
+        ],
+        "english": [
+            "capitalized surplus"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן לפדיון"
+        ],
+        "english": [
+            "sinking fund reserve"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן לתלויות",
+            "עתודה לתלויות"
+        ],
+        "english": [
+            "contingency reserve",
+            "reserve for contingencies"
+        ]
+    },
+    {
+        "hebrew": [
+            "קרן פנימית"
+        ],
+        "english": [
+            "secret reserve"
+        ]
+    },
+    {
+        "hebrew": [
+            "עודפים סמויים"
+        ],
+        "english": [
+            "secret reserve"
+        ]
+    }
+]

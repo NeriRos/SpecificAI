@@ -1,0 +1,14 @@
+# Ignore files and directories commonly excluded from Git repositories
+.DS_Store
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+*.log
+
+# Ignore any files or directories specific to your project that should not be included in the Git repository
+
+.env.local
+db

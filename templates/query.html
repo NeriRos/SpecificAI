@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adaptive AI</title>
+    <link rel="stylesheet" href="static/index.css"/>
+    <script type="application/javascript" src="static/query.js" defer="defer"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Get insights about {{ topic }}</h1>
+    <form id="prompt_form">
+        <textarea type="text" name="prompt" placeholder="Your prompt" rows="3"></textarea>
+        <div>
+            <select name="action" id="action">
+                <option value="insights">Generate insights</option>
+                <option value="execute">Execute command</option>
+            </select>
+            <input type="submit" id="submit" value="Submit">
+            <div id="loading" style="display: none">Loading...</div>
+        </div>
+    </form>
+    <div id="answers">
+        <div id="answers__list"></div>
+        <button id="reset_button" onclick="reset()">Reset</button>
+    </div>
+</div>
+</body>
+</html>

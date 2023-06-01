@@ -1,0 +1,6 @@
+Flask==2.3.1
+langchain
+openai
+chromadb
+tiktoken
+urllib3==1.26.6

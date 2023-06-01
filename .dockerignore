@@ -1,0 +1,12 @@
+# Ignore files and directories commonly excluded from Docker images
+.dockerignore
+.git
+.gitignore
+.vscode
+__pycache__
+*.pyc
+
+# Ignore any files or directories specific to your project that should not be included in the Docker image
+venv/
+db
+.env.local
