@@ -1,6 +1,7 @@
-Flask
-langchain
+Flask~=2.3.2
+langchain~=0.0.247
 openai
 chromadb
 tiktoken
 urllib3
+prisma~=0.9.1
