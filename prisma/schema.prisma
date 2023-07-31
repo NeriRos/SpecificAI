@@ -1,10 +1,11 @@
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = "postgres://user:password@localhost:5432/db"
 }
 
 generator client {
   provider             = "prisma-client-py"
+  interface            = "sync"
   recursive_type_depth = 5
 }
 
