@@ -1,7 +1,7 @@
 from flask import Flask, request, render_template
 
-from src.data_querying import generate_insights, execute_order
-from src.lang_chain import init_vector_db
+from src.ai.data_querying import generate_insights, execute_order
+from src.ai.lang_chain import init_vector_db
 
 # TODO: remove globals and use per session variables
 llm, vector_db = [None, None]
