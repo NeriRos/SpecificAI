@@ -1,7 +1,7 @@
 from langchain import OpenAI
 from langchain.embeddings import OpenAIEmbeddings
 
-from src.prepare_data import get_vector_db, get_content_chunks_documents
+from src.ai.prepare_data import get_vector_db, get_content_chunks_documents
 
 
 def init_vector_db(topic):
