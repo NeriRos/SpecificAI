@@ -11,6 +11,7 @@ build/
 # Ignore any files or directories specific to your project that should not be included in the Git repository
 
 .env.local
+.env
 db
 /.idea/aws.xml
 /.idea/runConfigurations/docker_compose_yml__Compose_Deployment.xml
