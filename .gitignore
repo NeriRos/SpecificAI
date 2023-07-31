@@ -12,3 +12,11 @@ build/
 
 .env.local
 db
+/.idea/aws.xml
+/.idea/runConfigurations/docker_compose_yml__Compose_Deployment.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/SpecificAI.iml
+/.idea/vcs.xml
